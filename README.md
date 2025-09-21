@@ -3,17 +3,19 @@ Este projeto possui o objetivo de aprendizagem para a plataforma DIO, do bootcam
 
 #Comandos: 
 
- 1- Ao inicializar o Terminal do Kali Linux, precisa deixar o seu usuário como "root", digitando: sudo su, e em seguida a sua senha
+1- Antes de Inicializar o terminal, tem que mudar uma opção de conexão, indo na aba Machine --> Settings --> Network, e mudar a opção Attached to, de Net, para Bridge Adapter, onde será possível realizar uma conexão fora do host, mas sendo limitada à mesma rede
+
+ 2- Ao inicializar o Terminal do Kali Linux, precisa deixar o seu usuário como "root", digitando: sudo su, e em seguida a sua senha
  
- 2- Agora precisa inicializar a ferramenta de engenharia social, digitando: setoolkit
+ 3- Agora precisa inicializar a ferramenta de engenharia social, digitando: setoolkit
  
- 3- Vai aparecer um menu com opções de ataque, eu escolhi a opção de: Social-Engineering Attacks
+ 4- Vai aparecer um menu com opções de ataque, eu escolhi a opção de: Social-Engineering Attacks
  
- 4- Agora ele vai perguntar qual vetor de ataque o usuário gostaria de utilizar, escolhi o vetor: Website Attack Vectors
+ 5- Agora ele vai perguntar qual vetor de ataque o usuário gostaria de utilizar, escolhi o vetor: Website Attack Vectors
  
- 5- Outro menu será aberto, onde ele explica o que cada opção faz, eu escolhi a Credential Harvest Attack Method. Que irá me trazer os resultados
+ 6- Outro menu será aberto, onde ele explica o que cada opção faz, eu escolhi a Credential Harvest Attack Method. Que irá me trazer os resultados
  
- 6- Ao escolher o que irá ser realizado, é possível clonar um site, eu escolhi a opção: Site Cloner, e digitei a url do Instagram
+ 7- Ao escolher o que irá ser realizado, é possível clonar um site, eu escolhi a opção: Site Cloner, e digitei a url do Instagram
 
  <img width="765" height="359" alt="image" src="https://github.com/user-attachments/assets/2ebf818a-9d86-4f6a-b09d-9e1e13f48024" />
 
